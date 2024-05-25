@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+  color: #ffffff;
+  text-align: center;
+  text-shadow:  #000000 4px 4px 4px;
+}
